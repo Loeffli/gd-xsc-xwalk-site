@@ -1,6 +1,6 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1BL4TsUGJx5XyWx2eCf5EmgS9leYM9OQz
-  #/:
-  #  url: https://author-p103854-e978580.adobeaemcloud.com/bin/franklin.delivery/Loeffli/gd-xsc-xwalk-site/main
-  #  type: markup
-  #  suffix: ".html?wcmmode=disabled"
+  #/: https://drive.google.com/drive/folders/1BL4TsUGJx5XyWx2eCf5EmgS9leYM9OQz
+  /:
+    url: https://author-p103854-e978580.adobeaemcloud.com/bin/franklin.delivery/Loeffli/gd-xsc-xwalk-site/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
